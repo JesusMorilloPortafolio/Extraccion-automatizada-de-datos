@@ -1,0 +1,65 @@
+Local,Puntos,Visitante,year
+Qatar ,Qatar , Ecuador,2022
+Senegal ,Senegal , Netherlands,2022
+Qatar ,Qatar , Senegal,2022
+Netherlands ,Netherlands , Ecuador,2022
+Ecuador ,Ecuador , Senegal,2022
+Netherlands ,Netherlands , Qatar,2022
+England ,England , Iran,2022
+United States ,United States , Wales,2022
+Wales ,Wales , Iran,2022
+England ,England , United States,2022
+Wales ,Wales , England,2022
+Iran ,Iran , United States,2022
+Argentina ,Argentina , Saudi Arabia,2022
+Mexico ,Mexico , Poland,2022
+Poland ,Poland , Saudi Arabia,2022
+Argentina ,Argentina , Mexico,2022
+Poland ,Poland , Argentina,2022
+Saudi Arabia ,Saudi Arabia , Mexico,2022
+Denmark ,Denmark , Tunisia,2022
+France ,France , Australia,2022
+Tunisia ,Tunisia , Australia,2022
+France ,France , Denmark,2022
+Australia ,Australia , Denmark,2022
+Tunisia ,Tunisia , France,2022
+Germany ,Germany , Japan,2022
+Spain ,Spain , Costa Rica,2022
+Japan ,Japan , Costa Rica,2022
+Spain ,Spain , Germany,2022
+Japan ,Japan , Spain,2022
+Costa Rica ,Costa Rica , Germany,2022
+Morocco ,Morocco , Croatia,2022
+Belgium ,Belgium , Canada,2022
+Belgium ,Belgium , Morocco,2022
+Croatia ,Croatia , Canada,2022
+Croatia ,Croatia , Belgium,2022
+Canada ,Canada , Morocco,2022
+Switzerland ,Switzerland , Cameroon,2022
+Brazil ,Brazil , Serbia,2022
+Cameroon ,Cameroon , Serbia,2022
+Brazil ,Brazil ,  Switzerland,2022
+Serbia ,Serbia ,  Switzerland,2022
+Cameroon ,Cameroon , Brazil,2022
+Uruguay ,Uruguay , South Korea,2022
+Portugal ,Portugal , Ghana,2022
+South Korea ,South Korea , Ghana,2022
+Portugal ,Portugal , Uruguay,2022
+Ghana ,Ghana , Uruguay,2022
+South Korea ,South Korea , Portugal,2022
+Netherlands ,Netherlands , United States,2022
+Argentina ,Argentina , Australia,2022
+France ,France , Poland,2022
+England ,England , Senegal,2022
+Japan ,Japan , Croatia,2022
+Brazil ,Brazil , South Korea,2022
+Morocco ,Morocco , Spain,2022
+Portugal ,Portugal ,  Switzerland,2022
+Croatia ,Croatia , Brazil,2022
+Netherlands ,Netherlands , Argentina,2022
+Morocco ,Morocco , Portugal,2022
+England ,England , France,2022
+Argentina ,Argentina , Croatia,2022
+France ,France , Morocco,2022
+Croatia ,Croatia , Morocco,2022
+Argentina ,Argentina , France,2022

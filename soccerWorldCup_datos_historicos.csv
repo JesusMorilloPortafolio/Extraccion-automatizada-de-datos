@@ -1,0 +1,814 @@
+Local,Puntos,Visitante,year
+France ,France , Mexico,1930
+Argentina ,Argentina , France,1930
+Chile ,Chile , Mexico,1930
+Chile ,Chile , France,1930
+Argentina ,Argentina , Mexico,1930
+Argentina ,Argentina , Chile,1930
+Yugoslavia ,Yugoslavia , Brazil,1930
+Yugoslavia ,Yugoslavia , Bolivia,1930
+Brazil ,Brazil , Bolivia,1930
+Romania ,Romania , Peru,1930
+Uruguay ,Uruguay , Peru,1930
+Uruguay ,Uruguay , Romania,1930
+United States ,United States , Belgium,1930
+United States ,United States , Paraguay,1930
+Paraguay ,Paraguay , Belgium,1930
+Argentina ,Argentina , United States,1930
+Uruguay ,Uruguay , Yugoslavia,1930
+Uruguay ,Uruguay , Argentina,1930
+Spain ,Spain , Brazil,1934
+Hungary ,Hungary , Egypt,1934
+Switzerland ,Switzerland , Netherlands,1934
+Italy ,Italy , United States,1934
+Czechoslovakia ,Czechoslovakia , Romania,1934
+Sweden ,Sweden , Argentina,1934
+Austria ,Austria , France,1934
+Germany ,Germany , Belgium,1934
+Austria ,Austria , Hungary,1934
+Italy ,Italy , Spain,1934
+Germany ,Germany , Sweden,1934
+Czechoslovakia ,Czechoslovakia ,  Switzerland,1934
+Italy ,Italy , Spain,1934
+Italy ,Italy , Austria,1934
+Czechoslovakia ,Czechoslovakia , Germany,1934
+Germany ,Germany , Austria,1934
+Italy ,Italy , Czechoslovakia,1934
+Switzerland ,Switzerland , Germany,1938
+Hungary ,Hungary , Dutch East Indies,1938
+Sweden ,Sweden , Austria,1938
+Cuba ,Cuba , Romania,1938
+France ,France , Belgium,1938
+Italy ,Italy , Norway,1938
+Brazil ,Brazil , Poland,1938
+Czechoslovakia ,Czechoslovakia , Netherlands,1938
+Switzerland ,Switzerland , Germany,1938
+Cuba ,Cuba , Romania,1938
+Hungary ,Hungary ,  Switzerland,1938
+Sweden ,Sweden , Cuba,1938
+Italy ,Italy , France,1938
+Brazil ,Brazil , Czechoslovakia,1938
+Brazil ,Brazil , Czechoslovakia,1938
+Hungary ,Hungary , Sweden,1938
+Italy ,Italy , Brazil,1938
+Brazil ,Brazil , Sweden,1938
+Italy ,Italy , Hungary,1938
+Brazil ,Brazil , Mexico,1950
+Yugoslavia ,Yugoslavia ,  Switzerland,1950
+Brazil ,Brazil ,  Switzerland,1950
+Yugoslavia ,Yugoslavia , Mexico,1950
+Brazil ,Brazil , Yugoslavia,1950
+Switzerland ,Switzerland , Mexico,1950
+England ,England , Chile,1950
+Spain ,Spain , United States,1950
+Spain ,Spain , Chile,1950
+United States ,United States , England,1950
+Spain ,Spain , England,1950
+Chile ,Chile , United States,1950
+Sweden ,Sweden , Italy,1950
+Sweden ,Sweden , Paraguay,1950
+Italy ,Italy , Paraguay,1950
+Uruguay ,Uruguay , Bolivia,1950
+Uruguay ,Uruguay , Spain,1950
+Brazil ,Brazil , Sweden,1950
+Brazil ,Brazil , Spain,1950
+Uruguay ,Uruguay , Sweden,1950
+Sweden ,Sweden , Spain,1950
+Uruguay ,Uruguay , Brazil,1950
+Brazil ,Brazil , Mexico,1954
+Yugoslavia ,Yugoslavia , France,1954
+Brazil ,Brazil , Yugoslavia,1954
+France ,France , Mexico,1954
+West Germany ,West Germany , Turkey,1954
+Hungary ,Hungary , South Korea,1954
+Hungary ,Hungary , West Germany,1954
+Turkey ,Turkey , South Korea,1954
+West Germany ,West Germany , Turkey,1954
+Uruguay ,Uruguay , Czechoslovakia,1954
+Austria ,Austria , Scotland,1954
+Uruguay ,Uruguay , Scotland,1954
+Austria ,Austria , Czechoslovakia,1954
+Switzerland ,Switzerland , Italy,1954
+England ,England , Belgium,1954
+Italy ,Italy , Belgium,1954
+England ,England ,  Switzerland,1954
+Switzerland ,Switzerland , Italy,1954
+Austria ,Austria ,  Switzerland,1954
+Uruguay ,Uruguay , England,1954
+West Germany ,West Germany , Yugoslavia,1954
+Hungary ,Hungary , Brazil,1954
+West Germany ,West Germany , Austria,1954
+Hungary ,Hungary , Uruguay,1954
+Austria ,Austria , Uruguay,1954
+West Germany ,West Germany , Hungary,1954
+Argentina ,Argentina , West Germany,1958
+Northern Ireland ,Northern Ireland , Czechoslovakia,1958
+West Germany ,West Germany , Czechoslovakia,1958
+Argentina ,Argentina , Northern Ireland,1958
+West Germany ,West Germany , Northern Ireland,1958
+Czechoslovakia ,Czechoslovakia , Argentina,1958
+Northern Ireland ,Northern Ireland , Czechoslovakia,1958
+France ,France , Paraguay,1958
+Yugoslavia ,Yugoslavia , Scotland,1958
+Yugoslavia ,Yugoslavia , France,1958
+Paraguay ,Paraguay , Scotland,1958
+France ,France , Scotland,1958
+Paraguay ,Paraguay , Yugoslavia,1958
+Sweden ,Sweden , Mexico,1958
+Hungary ,Hungary , Wales,1958
+Mexico ,Mexico , Wales,1958
+Sweden ,Sweden , Hungary,1958
+Sweden ,Sweden , Wales,1958
+Hungary ,Hungary , Mexico,1958
+Wales ,Wales , Hungary,1958
+Brazil ,Brazil , Austria,1958
+Soviet Union ,Soviet Union , England,1958
+Brazil ,Brazil , England,1958
+Soviet Union ,Soviet Union , Austria,1958
+England ,England , Austria,1958
+Brazil ,Brazil , Soviet Union,1958
+Soviet Union ,Soviet Union , England,1958
+Brazil ,Brazil , Wales,1958
+France ,France , Northern Ireland,1958
+Sweden ,Sweden , Soviet Union,1958
+West Germany ,West Germany , Yugoslavia,1958
+Brazil ,Brazil , France,1958
+Sweden ,Sweden , West Germany,1958
+France ,France , West Germany,1958
+Brazil ,Brazil , Sweden,1958
+Uruguay ,Uruguay , Colombia,1962
+Soviet Union ,Soviet Union , Yugoslavia,1962
+Yugoslavia ,Yugoslavia , Uruguay,1962
+Soviet Union ,Soviet Union , Colombia,1962
+Soviet Union ,Soviet Union , Uruguay,1962
+Yugoslavia ,Yugoslavia , Colombia,1962
+Chile ,Chile ,  Switzerland,1962
+West Germany ,West Germany , Italy,1962
+Chile ,Chile , Italy,1962
+West Germany ,West Germany ,  Switzerland,1962
+West Germany ,West Germany , Chile,1962
+Italy ,Italy ,  Switzerland,1962
+Brazil ,Brazil , Mexico,1962
+Czechoslovakia ,Czechoslovakia , Spain,1962
+Brazil ,Brazil , Czechoslovakia,1962
+Spain ,Spain , Mexico,1962
+Brazil ,Brazil , Spain,1962
+Mexico ,Mexico , Czechoslovakia,1962
+Argentina ,Argentina , Bulgaria,1962
+Hungary ,Hungary , England,1962
+England ,England , Argentina,1962
+Hungary ,Hungary , Bulgaria,1962
+Hungary ,Hungary , Argentina,1962
+England ,England , Bulgaria,1962
+Chile ,Chile , Soviet Union,1962
+Czechoslovakia ,Czechoslovakia , Hungary,1962
+Brazil ,Brazil , England,1962
+Yugoslavia ,Yugoslavia , West Germany,1962
+Czechoslovakia ,Czechoslovakia , Yugoslavia,1962
+Brazil ,Brazil , Chile,1962
+Chile ,Chile , Yugoslavia,1962
+Brazil ,Brazil , Czechoslovakia,1962
+England ,England , Uruguay,1966
+France ,France , Mexico,1966
+Uruguay ,Uruguay , France,1966
+England ,England , Mexico,1966
+Mexico ,Mexico , Uruguay,1966
+England ,England , France,1966
+West Germany ,West Germany ,  Switzerland,1966
+Argentina ,Argentina , Spain,1966
+Spain ,Spain ,  Switzerland,1966
+Argentina ,Argentina , West Germany,1966
+Argentina ,Argentina ,  Switzerland,1966
+West Germany ,West Germany , Spain,1966
+Brazil ,Brazil , Bulgaria,1966
+Portugal ,Portugal , Hungary,1966
+Hungary ,Hungary , Brazil,1966
+Portugal ,Portugal , Bulgaria,1966
+Portugal ,Portugal , Brazil,1966
+Hungary ,Hungary , Bulgaria,1966
+Soviet Union ,Soviet Union , North Korea,1966
+Italy ,Italy , Chile,1966
+Chile ,Chile , North Korea,1966
+Soviet Union ,Soviet Union , Italy,1966
+North Korea ,North Korea , Italy,1966
+Soviet Union ,Soviet Union , Chile,1966
+England ,England , Argentina,1966
+West Germany ,West Germany , Uruguay,1966
+Soviet Union ,Soviet Union , Hungary,1966
+Portugal ,Portugal , North Korea,1966
+West Germany ,West Germany , Soviet Union,1966
+England ,England , Portugal,1966
+Portugal ,Portugal , Soviet Union,1966
+England ,England , West Germany,1966
+Mexico ,Mexico , Soviet Union,1970
+Belgium ,Belgium , El Salvador,1970
+Soviet Union ,Soviet Union , Belgium,1970
+Mexico ,Mexico , El Salvador,1970
+Soviet Union ,Soviet Union , El Salvador,1970
+Mexico ,Mexico , Belgium,1970
+Uruguay ,Uruguay , Israel,1970
+Italy ,Italy , Sweden,1970
+Uruguay ,Uruguay , Italy,1970
+Sweden ,Sweden , Israel,1970
+Sweden ,Sweden , Uruguay,1970
+Italy ,Italy , Israel,1970
+England ,England , Romania,1970
+Brazil ,Brazil , Czechoslovakia,1970
+Romania ,Romania , Czechoslovakia,1970
+Brazil ,Brazil , England,1970
+Brazil ,Brazil , Romania,1970
+England ,England , Czechoslovakia,1970
+Peru ,Peru , Bulgaria,1970
+West Germany ,West Germany , Morocco,1970
+Peru ,Peru , Morocco,1970
+West Germany ,West Germany , Bulgaria,1970
+West Germany ,West Germany , Peru,1970
+Bulgaria ,Bulgaria , Morocco,1970
+Soviet Union ,Soviet Union , Uruguay,1970
+Italy ,Italy , Mexico,1970
+Brazil ,Brazil , Peru,1970
+West Germany ,West Germany , England,1970
+Uruguay ,Uruguay , Brazil,1970
+Italy ,Italy , West Germany,1970
+Uruguay ,Uruguay , West Germany,1970
+Brazil ,Brazil , Italy,1970
+West Germany ,West Germany , Chile,1974
+East Germany ,East Germany , Australia,1974
+Australia ,Australia , West Germany,1974
+Chile ,Chile , East Germany,1974
+Australia ,Australia , Chile,1974
+East Germany ,East Germany , West Germany,1974
+Brazil ,Brazil , Yugoslavia,1974
+Zaire ,Zaire , Scotland,1974
+Yugoslavia ,Yugoslavia , Zaire,1974
+Scotland ,Scotland , Brazil,1974
+Scotland ,Scotland , Yugoslavia,1974
+Zaire ,Zaire , Brazil,1974
+Uruguay ,Uruguay , Netherlands,1974
+Sweden ,Sweden , Bulgaria,1974
+Bulgaria ,Bulgaria , Uruguay,1974
+Netherlands ,Netherlands , Sweden,1974
+Bulgaria ,Bulgaria , Netherlands,1974
+Sweden ,Sweden , Uruguay,1974
+Italy ,Italy , Haiti,1974
+Poland ,Poland , Argentina,1974
+Argentina ,Argentina , Italy,1974
+Haiti ,Haiti , Poland,1974
+Argentina ,Argentina , Haiti,1974
+Poland ,Poland , Italy,1974
+Netherlands ,Netherlands , Argentina,1974
+Brazil ,Brazil , East Germany,1974
+Argentina ,Argentina , Brazil,1974
+East Germany ,East Germany , Netherlands,1974
+Argentina ,Argentina , East Germany,1974
+Netherlands ,Netherlands , Brazil,1974
+Yugoslavia ,Yugoslavia , West Germany,1974
+Sweden ,Sweden , Poland,1974
+Poland ,Poland , Yugoslavia,1974
+West Germany ,West Germany , Sweden,1974
+Poland ,Poland , West Germany,1974
+Sweden ,Sweden , Yugoslavia,1974
+Brazil ,Brazil , Poland,1974
+Netherlands ,Netherlands , West Germany,1974
+Italy ,Italy , France,1978
+Argentina ,Argentina , Hungary,1978
+Italy ,Italy , Hungary,1978
+Argentina ,Argentina , France,1978
+France ,France , Hungary,1978
+Argentina ,Argentina , Italy,1978
+West Germany ,West Germany , Poland,1978
+Tunisia ,Tunisia , Mexico,1978
+West Germany ,West Germany , Mexico,1978
+Poland ,Poland , Tunisia,1978
+West Germany ,West Germany , Tunisia,1978
+Poland ,Poland , Mexico,1978
+Austria ,Austria , Spain,1978
+Brazil ,Brazil , Sweden,1978
+Austria ,Austria , Sweden,1978
+Brazil ,Brazil , Spain,1978
+Spain ,Spain , Sweden,1978
+Brazil ,Brazil , Austria,1978
+Peru ,Peru , Scotland,1978
+Netherlands ,Netherlands , Iran,1978
+Scotland ,Scotland , Iran,1978
+Netherlands ,Netherlands , Peru,1978
+Peru ,Peru , Iran,1978
+Scotland ,Scotland , Netherlands,1978
+Austria ,Austria , Netherlands,1978
+Italy ,Italy , West Germany,1978
+Netherlands ,Netherlands , West Germany,1978
+Italy ,Italy , Austria,1978
+Austria ,Austria , West Germany,1978
+Italy ,Italy , Netherlands,1978
+Brazil ,Brazil , Peru,1978
+Argentina ,Argentina , Poland,1978
+Peru ,Peru , Poland,1978
+Argentina ,Argentina , Brazil,1978
+Brazil ,Brazil , Poland,1978
+Argentina ,Argentina , Peru,1978
+Brazil ,Brazil , Italy,1978
+Argentina ,Argentina , Netherlands,1978
+Italy ,Italy , Poland,1982
+Peru ,Peru , Cameroon,1982
+Italy ,Italy , Peru,1982
+Poland ,Poland , Cameroon,1982
+Poland ,Poland , Peru,1982
+Italy ,Italy , Cameroon,1982
+West Germany ,West Germany , Algeria,1982
+Chile ,Chile , Austria,1982
+West Germany ,West Germany , Chile,1982
+Algeria ,Algeria , Austria,1982
+Algeria ,Algeria , Chile,1982
+West Germany ,West Germany , Austria,1982
+Argentina ,Argentina , Belgium,1982
+Hungary ,Hungary , El Salvador,1982
+Argentina ,Argentina , Hungary,1982
+Belgium ,Belgium , El Salvador,1982
+Belgium ,Belgium , Hungary,1982
+Argentina ,Argentina , El Salvador,1982
+England ,England , France,1982
+Czechoslovakia ,Czechoslovakia , Kuwait,1982
+England ,England , Czechoslovakia,1982
+France ,France , Kuwait,1982
+France ,France , Czechoslovakia,1982
+England ,England , Kuwait,1982
+Spain ,Spain , Honduras,1982
+Yugoslavia ,Yugoslavia , Northern Ireland,1982
+Spain ,Spain , Yugoslavia,1982
+Honduras ,Honduras , Northern Ireland,1982
+Honduras ,Honduras , Yugoslavia,1982
+Spain ,Spain , Northern Ireland,1982
+Brazil ,Brazil , Soviet Union,1982
+Scotland ,Scotland , New Zealand,1982
+Brazil ,Brazil , Scotland,1982
+Soviet Union ,Soviet Union , New Zealand,1982
+Soviet Union ,Soviet Union , Scotland,1982
+Brazil ,Brazil , New Zealand,1982
+Poland ,Poland , Belgium,1982
+Belgium ,Belgium , Soviet Union,1982
+Soviet Union ,Soviet Union , Poland,1982
+West Germany ,West Germany , England,1982
+West Germany ,West Germany , Spain,1982
+Spain ,Spain , England,1982
+Italy ,Italy , Argentina,1982
+Argentina ,Argentina , Brazil,1982
+Italy ,Italy , Brazil,1982
+Austria ,Austria , France,1982
+Austria ,Austria , Northern Ireland,1982
+France ,France , Northern Ireland,1982
+Poland ,Poland , Italy,1982
+West Germany ,West Germany , France,1982
+Poland ,Poland , France,1982
+Italy ,Italy , West Germany,1982
+Cameroon ,Cameroon , Colombia,1990
+Czechoslovakia ,Czechoslovakia , Costa Rica,1990
+Brazil ,Brazil , Argentina,1990
+West Germany ,West Germany , Netherlands,1990
+Republic of Ireland ,Republic of Ireland , Romania,1990
+Italy ,Italy , Uruguay,1990
+Spain ,Spain , Yugoslavia,1990
+England ,England , Belgium,1990
+Argentina ,Argentina , Yugoslavia,1990
+Republic of Ireland ,Republic of Ireland , Italy,1990
+Czechoslovakia ,Czechoslovakia , West Germany,1990
+Cameroon ,Cameroon , England,1990
+Argentina ,Argentina , Italy,1990
+West Germany ,West Germany , England,1990
+Italy ,Italy , England,1990
+West Germany ,West Germany , Argentina,1990
+United States ,United States ,  Switzerland,1994
+Colombia ,Colombia , Romania,1994
+Romania ,Romania ,  Switzerland,1994
+United States ,United States , Colombia,1994
+Switzerland ,Switzerland , Colombia,1994
+United States ,United States , Romania,1994
+Cameroon ,Cameroon , Sweden,1994
+Brazil ,Brazil , Russia,1994
+Brazil ,Brazil , Cameroon,1994
+Sweden ,Sweden , Russia,1994
+Russia ,Russia , Cameroon,1994
+Brazil ,Brazil , Sweden,1994
+Germany ,Germany , Bolivia,1994
+Spain ,Spain , South Korea,1994
+Germany ,Germany , Spain,1994
+South Korea ,South Korea , Bolivia,1994
+Bolivia ,Bolivia , Spain,1994
+Germany ,Germany , South Korea,1994
+Argentina ,Argentina , Greece,1994
+Nigeria ,Nigeria , Bulgaria,1994
+Argentina ,Argentina , Nigeria,1994
+Bulgaria ,Bulgaria , Greece,1994
+Argentina ,Argentina , Bulgaria,1994
+Greece ,Greece , Nigeria,1994
+Italy ,Italy , Republic of Ireland,1994
+Norway ,Norway , Mexico,1994
+Italy ,Italy , Norway,1994
+Mexico ,Mexico , Republic of Ireland,1994
+Italy ,Italy , Mexico,1994
+Republic of Ireland ,Republic of Ireland , Norway,1994
+Belgium ,Belgium , Morocco,1994
+Netherlands ,Netherlands , Saudi Arabia,1994
+Belgium ,Belgium , Netherlands,1994
+Saudi Arabia ,Saudi Arabia , Morocco,1994
+Belgium ,Belgium , Saudi Arabia,1994
+Morocco ,Morocco , Netherlands,1994
+Germany ,Germany , Belgium,1994
+Spain ,Spain ,  Switzerland,1994
+Saudi Arabia ,Saudi Arabia , Sweden,1994
+Romania ,Romania , Argentina,1994
+Netherlands ,Netherlands , Republic of Ireland,1994
+Brazil ,Brazil , United States,1994
+Nigeria ,Nigeria , Italy,1994
+Mexico ,Mexico , Bulgaria,1994
+Italy ,Italy , Spain,1994
+Netherlands ,Netherlands , Brazil,1994
+Bulgaria ,Bulgaria , Germany,1994
+Romania ,Romania , Sweden,1994
+Bulgaria ,Bulgaria , Italy,1994
+Sweden ,Sweden , Brazil,1994
+Sweden ,Sweden , Bulgaria,1994
+Brazil ,Brazil , Italy,1994
+Brazil ,Brazil , Scotland,1998
+Morocco ,Morocco , Norway,1998
+Scotland ,Scotland , Norway,1998
+Brazil ,Brazil , Morocco,1998
+Scotland ,Scotland , Morocco,1998
+Brazil ,Brazil , Norway,1998
+Italy ,Italy , Chile,1998
+Cameroon ,Cameroon , Austria,1998
+Chile ,Chile , Austria,1998
+Italy ,Italy , Cameroon,1998
+Italy ,Italy , Austria,1998
+Chile ,Chile , Cameroon,1998
+Saudi Arabia ,Saudi Arabia , Denmark,1998
+France ,France , South Africa,1998
+South Africa ,South Africa , Denmark,1998
+France ,France , Saudi Arabia,1998
+France ,France , Denmark,1998
+South Africa ,South Africa , Saudi Arabia,1998
+Paraguay ,Paraguay , Bulgaria,1998
+Spain ,Spain , Nigeria,1998
+Nigeria ,Nigeria , Bulgaria,1998
+Spain ,Spain , Paraguay,1998
+Nigeria ,Nigeria , Paraguay,1998
+Spain ,Spain , Bulgaria,1998
+South Korea ,South Korea , Mexico,1998
+Netherlands ,Netherlands , Belgium,1998
+Belgium ,Belgium , Mexico,1998
+Netherlands ,Netherlands , South Korea,1998
+Netherlands ,Netherlands , Mexico,1998
+Belgium ,Belgium , South Korea,1998
+FR Yugoslavia ,FR Yugoslavia , Iran,1998
+Germany ,Germany , United States,1998
+Germany ,Germany , FR Yugoslavia,1998
+United States ,United States , Iran,1998
+Germany ,Germany , Iran,1998
+United States ,United States , FR Yugoslavia,1998
+England ,England , Tunisia,1998
+Romania ,Romania , Colombia,1998
+Colombia ,Colombia , Tunisia,1998
+Romania ,Romania , England,1998
+Colombia ,Colombia , England,1998
+Romania ,Romania , Tunisia,1998
+Argentina ,Argentina , Japan,1998
+Jamaica ,Jamaica , Croatia,1998
+Japan ,Japan , Croatia,1998
+Argentina ,Argentina , Jamaica,1998
+Argentina ,Argentina , Croatia,1998
+Japan ,Japan , Jamaica,1998
+Italy ,Italy , Norway,1998
+Brazil ,Brazil , Chile,1998
+France ,France , Paraguay,1998
+Nigeria ,Nigeria , Denmark,1998
+Germany ,Germany , Mexico,1998
+Netherlands ,Netherlands , FR Yugoslavia,1998
+Romania ,Romania , Croatia,1998
+Argentina ,Argentina , England,1998
+Italy ,Italy , France,1998
+Brazil ,Brazil , Denmark,1998
+Netherlands ,Netherlands , Argentina,1998
+Germany ,Germany , Croatia,1998
+Brazil ,Brazil , Netherlands,1998
+France ,France , Croatia,1998
+Netherlands ,Netherlands , Croatia,1998
+Brazil ,Brazil , France,1998
+France ,France , Senegal,2002
+Uruguay ,Uruguay , Denmark,2002
+Denmark ,Denmark , Senegal,2002
+France ,France , Uruguay,2002
+Denmark ,Denmark , France,2002
+Senegal ,Senegal , Uruguay,2002
+Paraguay ,Paraguay , South Africa,2002
+Spain ,Spain , Slovenia,2002
+Spain ,Spain , Paraguay,2002
+South Africa ,South Africa , Slovenia,2002
+South Africa ,South Africa , Spain,2002
+Slovenia ,Slovenia , Paraguay,2002
+Brazil ,Brazil , Turkey,2002
+China ,China , Costa Rica,2002
+Brazil ,Brazil , China,2002
+Costa Rica ,Costa Rica , Turkey,2002
+Costa Rica ,Costa Rica , Brazil,2002
+Turkey ,Turkey , China,2002
+South Korea ,South Korea , Poland,2002
+United States ,United States , Portugal,2002
+South Korea ,South Korea , United States,2002
+Portugal ,Portugal , Poland,2002
+Portugal ,Portugal , South Korea,2002
+Poland ,Poland , United States,2002
+Republic of Ireland ,Republic of Ireland , Cameroon,2002
+Germany ,Germany , Saudi Arabia,2002
+Germany ,Germany , Republic of Ireland,2002
+Cameroon ,Cameroon , Saudi Arabia,2002
+Cameroon ,Cameroon , Germany,2002
+Saudi Arabia ,Saudi Arabia , Republic of Ireland,2002
+Argentina ,Argentina , Nigeria,2002
+England ,England , Sweden,2002
+Sweden ,Sweden , Nigeria,2002
+Argentina ,Argentina , England,2002
+Sweden ,Sweden , Argentina,2002
+Nigeria ,Nigeria , England,2002
+Croatia ,Croatia , Mexico,2002
+Italy ,Italy , Ecuador,2002
+Italy ,Italy , Croatia,2002
+Mexico ,Mexico , Ecuador,2002
+Mexico ,Mexico , Italy,2002
+Ecuador ,Ecuador , Croatia,2002
+Japan ,Japan , Belgium,2002
+Russia ,Russia , Tunisia,2002
+Japan ,Japan , Russia,2002
+Tunisia ,Tunisia , Belgium,2002
+Tunisia ,Tunisia , Japan,2002
+Belgium ,Belgium , Russia,2002
+Germany ,Germany , Paraguay,2002
+Denmark ,Denmark , England,2002
+Sweden ,Sweden , Senegal,2002
+Spain ,Spain , Republic of Ireland,2002
+Mexico ,Mexico , United States,2002
+Brazil ,Brazil , Belgium,2002
+Japan ,Japan , Turkey,2002
+South Korea ,South Korea , Italy,2002
+England ,England , Brazil,2002
+Germany ,Germany , United States,2002
+Spain ,Spain , South Korea,2002
+Senegal ,Senegal , Turkey,2002
+Germany ,Germany , South Korea,2002
+Brazil ,Brazil , Turkey,2002
+South Korea ,South Korea , Turkey,2002
+Germany ,Germany , Brazil,2002
+Germany ,Germany , Costa Rica,2006
+Poland ,Poland , Ecuador,2006
+Germany ,Germany , Poland,2006
+Ecuador ,Ecuador , Costa Rica,2006
+Ecuador ,Ecuador , Germany,2006
+Costa Rica ,Costa Rica , Poland,2006
+England ,England , Paraguay,2006
+Trinidad and Tobago ,Trinidad and Tobago , Sweden,2006
+England ,England , Trinidad and Tobago,2006
+Sweden ,Sweden , Paraguay,2006
+Sweden ,Sweden , England,2006
+Paraguay ,Paraguay , Trinidad and Tobago,2006
+Argentina ,Argentina , Ivory Coast,2006
+Serbia and Montenegro ,Serbia and Montenegro , Netherlands,2006
+Argentina ,Argentina , Serbia and Montenegro,2006
+Netherlands ,Netherlands , Ivory Coast,2006
+Netherlands ,Netherlands , Argentina,2006
+Ivory Coast ,Ivory Coast , Serbia and Montenegro,2006
+Mexico ,Mexico , Iran,2006
+Angola ,Angola , Portugal,2006
+Mexico ,Mexico , Angola,2006
+Portugal ,Portugal , Iran,2006
+Portugal ,Portugal , Mexico,2006
+Iran ,Iran , Angola,2006
+United States ,United States , Czech Republic,2006
+Italy ,Italy , Ghana,2006
+Czech Republic ,Czech Republic , Ghana,2006
+Italy ,Italy , United States,2006
+Czech Republic ,Czech Republic , Italy,2006
+Ghana ,Ghana , United States,2006
+Australia ,Australia , Japan,2006
+Brazil ,Brazil , Croatia,2006
+Japan ,Japan , Croatia,2006
+Brazil ,Brazil , Australia,2006
+Japan ,Japan , Brazil,2006
+Croatia ,Croatia , Australia,2006
+South Korea ,South Korea , Togo,2006
+France ,France ,  Switzerland,2006
+France ,France , South Korea,2006
+Togo ,Togo ,  Switzerland,2006
+Togo ,Togo , France,2006
+Switzerland ,Switzerland , South Korea,2006
+Spain ,Spain , Ukraine,2006
+Tunisia ,Tunisia , Saudi Arabia,2006
+Saudi Arabia ,Saudi Arabia , Ukraine,2006
+Spain ,Spain , Tunisia,2006
+Saudi Arabia ,Saudi Arabia , Spain,2006
+Ukraine ,Ukraine , Tunisia,2006
+Germany ,Germany , Sweden,2006
+Argentina ,Argentina , Mexico,2006
+England ,England , Ecuador,2006
+Portugal ,Portugal , Netherlands,2006
+Italy ,Italy , Australia,2006
+Switzerland ,Switzerland , Ukraine,2006
+Brazil ,Brazil , Ghana,2006
+Spain ,Spain , France,2006
+Germany ,Germany , Argentina,2006
+Italy ,Italy , Ukraine,2006
+England ,England , Portugal,2006
+Brazil ,Brazil , France,2006
+Germany ,Germany , Italy,2006
+Portugal ,Portugal , France,2006
+Germany ,Germany , Portugal,2006
+Italy ,Italy , France,2006
+South Africa ,South Africa , Mexico,2010
+Uruguay ,Uruguay , France,2010
+South Africa ,South Africa , Uruguay,2010
+France ,France , Mexico,2010
+Mexico ,Mexico , Uruguay,2010
+France ,France , South Africa,2010
+South Korea ,South Korea , Greece,2010
+Argentina ,Argentina , Nigeria,2010
+Argentina ,Argentina , South Korea,2010
+Greece ,Greece , Nigeria,2010
+Nigeria ,Nigeria , South Korea,2010
+Greece ,Greece , Argentina,2010
+England ,England , United States,2010
+Algeria ,Algeria , Slovenia,2010
+Slovenia ,Slovenia , United States,2010
+England ,England , Algeria,2010
+Slovenia ,Slovenia , England,2010
+United States ,United States , Algeria,2010
+Serbia ,Serbia , Ghana,2010
+Germany ,Germany , Australia,2010
+Germany ,Germany , Serbia,2010
+Ghana ,Ghana , Australia,2010
+Ghana ,Ghana , Germany,2010
+Australia ,Australia , Serbia,2010
+Netherlands ,Netherlands , Denmark,2010
+Japan ,Japan , Cameroon,2010
+Netherlands ,Netherlands , Japan,2010
+Cameroon ,Cameroon , Denmark,2010
+Denmark ,Denmark , Japan,2010
+Cameroon ,Cameroon , Netherlands,2010
+Italy ,Italy , Paraguay,2010
+New Zealand ,New Zealand , Slovakia,2010
+Slovakia ,Slovakia , Paraguay,2010
+Italy ,Italy , New Zealand,2010
+Slovakia ,Slovakia , Italy,2010
+Paraguay ,Paraguay , New Zealand,2010
+Ivory Coast ,Ivory Coast , Portugal,2010
+Brazil ,Brazil , North Korea,2010
+Brazil ,Brazil , Ivory Coast,2010
+Portugal ,Portugal , North Korea,2010
+Portugal ,Portugal , Brazil,2010
+North Korea ,North Korea , Ivory Coast,2010
+Honduras ,Honduras , Chile,2010
+Spain ,Spain ,  Switzerland,2010
+Chile ,Chile ,  Switzerland,2010
+Spain ,Spain , Honduras,2010
+Chile ,Chile , Spain,2010
+Switzerland ,Switzerland , Honduras,2010
+Uruguay ,Uruguay , South Korea,2010
+United States ,United States , Ghana,2010
+Germany ,Germany , England,2010
+Argentina ,Argentina , Mexico,2010
+Netherlands ,Netherlands , Slovakia,2010
+Brazil ,Brazil , Chile,2010
+Paraguay ,Paraguay , Japan,2010
+Spain ,Spain , Portugal,2010
+Netherlands ,Netherlands , Brazil,2010
+Uruguay ,Uruguay , Ghana,2010
+Argentina ,Argentina , Germany,2010
+Paraguay ,Paraguay , Spain,2010
+Uruguay ,Uruguay , Netherlands,2010
+Germany ,Germany , Spain,2010
+Uruguay ,Uruguay , Germany,2010
+Netherlands ,Netherlands , Spain,2010
+Brazil ,Brazil , Croatia,2014
+Mexico ,Mexico , Cameroon,2014
+Brazil ,Brazil , Mexico,2014
+Cameroon ,Cameroon , Croatia,2014
+Cameroon ,Cameroon , Brazil,2014
+Croatia ,Croatia , Mexico,2014
+Spain ,Spain , Netherlands,2014
+Chile ,Chile , Australia,2014
+Australia ,Australia , Netherlands,2014
+Spain ,Spain , Chile,2014
+Australia ,Australia , Spain,2014
+Netherlands ,Netherlands , Chile,2014
+Colombia ,Colombia , Greece,2014
+Ivory Coast ,Ivory Coast , Japan,2014
+Colombia ,Colombia , Ivory Coast,2014
+Japan ,Japan , Greece,2014
+Japan ,Japan , Colombia,2014
+Greece ,Greece , Ivory Coast,2014
+Uruguay ,Uruguay , Costa Rica,2014
+England ,England , Italy,2014
+Uruguay ,Uruguay , England,2014
+Italy ,Italy , Costa Rica,2014
+Italy ,Italy , Uruguay,2014
+Costa Rica ,Costa Rica , England,2014
+Switzerland ,Switzerland , Ecuador,2014
+France ,France , Honduras,2014
+Switzerland ,Switzerland , France,2014
+Honduras ,Honduras , Ecuador,2014
+Honduras ,Honduras ,  Switzerland,2014
+Ecuador ,Ecuador , France,2014
+Argentina ,Argentina , Bosnia and Herzegovina,2014
+Iran ,Iran , Nigeria,2014
+Argentina ,Argentina , Iran,2014
+Nigeria ,Nigeria , Bosnia and Herzegovina,2014
+Nigeria ,Nigeria , Argentina,2014
+Bosnia and Herzegovina ,Bosnia and Herzegovina , Iran,2014
+Germany ,Germany , Portugal,2014
+Ghana ,Ghana , United States,2014
+Germany ,Germany , Ghana,2014
+United States ,United States , Portugal,2014
+United States ,United States , Germany,2014
+Portugal ,Portugal , Ghana,2014
+Belgium ,Belgium , Algeria,2014
+Russia ,Russia , South Korea,2014
+Belgium ,Belgium , Russia,2014
+South Korea ,South Korea , Algeria,2014
+South Korea ,South Korea , Belgium,2014
+Algeria ,Algeria , Russia,2014
+Brazil ,Brazil , Chile,2014
+Colombia ,Colombia , Uruguay,2014
+Netherlands ,Netherlands , Mexico,2014
+Costa Rica ,Costa Rica , Greece,2014
+France ,France , Nigeria,2014
+Germany ,Germany , Algeria,2014
+Argentina ,Argentina ,  Switzerland,2014
+Belgium ,Belgium , United States,2014
+France ,France , Germany,2014
+Brazil ,Brazil , Colombia,2014
+Argentina ,Argentina , Belgium,2014
+Netherlands ,Netherlands , Costa Rica,2014
+Brazil ,Brazil , Germany,2014
+Netherlands ,Netherlands , Argentina,2014
+Brazil ,Brazil , Netherlands,2014
+Germany ,Germany , Argentina,2014
+Russia ,Russia , Saudi Arabia,2018
+Egypt ,Egypt , Uruguay,2018
+Russia ,Russia , Egypt,2018
+Uruguay ,Uruguay , Saudi Arabia,2018
+Uruguay ,Uruguay , Russia,2018
+Saudi Arabia ,Saudi Arabia , Egypt,2018
+Morocco ,Morocco , Iran,2018
+Portugal ,Portugal , Spain,2018
+Portugal ,Portugal , Morocco,2018
+Iran ,Iran , Spain,2018
+Iran ,Iran , Portugal,2018
+Spain ,Spain , Morocco,2018
+France ,France , Australia,2018
+Peru ,Peru , Denmark,2018
+Denmark ,Denmark , Australia,2018
+France ,France , Peru,2018
+Denmark ,Denmark , France,2018
+Australia ,Australia , Peru,2018
+Argentina ,Argentina , Iceland,2018
+Croatia ,Croatia , Nigeria,2018
+Argentina ,Argentina , Croatia,2018
+Nigeria ,Nigeria , Iceland,2018
+Nigeria ,Nigeria , Argentina,2018
+Iceland ,Iceland , Croatia,2018
+Costa Rica ,Costa Rica , Serbia,2018
+Brazil ,Brazil ,  Switzerland,2018
+Brazil ,Brazil , Costa Rica,2018
+Serbia ,Serbia ,  Switzerland,2018
+Serbia ,Serbia , Brazil,2018
+Switzerland ,Switzerland , Costa Rica,2018
+Germany ,Germany , Mexico,2018
+Sweden ,Sweden , South Korea,2018
+South Korea ,South Korea , Mexico,2018
+Germany ,Germany , Sweden,2018
+South Korea ,South Korea , Germany,2018
+Mexico ,Mexico , Sweden,2018
+Belgium ,Belgium , Panama,2018
+Tunisia ,Tunisia , England,2018
+Belgium ,Belgium , Tunisia,2018
+England ,England , Panama,2018
+England ,England , Belgium,2018
+Panama ,Panama , Tunisia,2018
+Colombia ,Colombia , Japan,2018
+Poland ,Poland , Senegal,2018
+Japan ,Japan , Senegal,2018
+Poland ,Poland , Colombia,2018
+Japan ,Japan , Poland,2018
+Senegal ,Senegal , Colombia,2018
+France ,France , Argentina,2018
+Uruguay ,Uruguay , Portugal,2018
+Spain ,Spain , Russia,2018
+Croatia ,Croatia , Denmark,2018
+Brazil ,Brazil , Mexico,2018
+Belgium ,Belgium , Japan,2018
+Sweden ,Sweden ,  Switzerland,2018
+Colombia ,Colombia , England,2018
+Uruguay ,Uruguay , France,2018
+Brazil ,Brazil , Belgium,2018
+Sweden ,Sweden , England,2018
+Russia ,Russia , Croatia,2018
+France ,France , Belgium,2018
+Croatia ,Croatia , England,2018
+Belgium ,Belgium , England,2018
+France ,France , Croatia,2018
